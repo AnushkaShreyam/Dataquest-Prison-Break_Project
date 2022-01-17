@@ -1,4 +1,4 @@
-# Dataquest-Prison-Break_Project
+# Prison-Break_Project
 It's about prison breaks! 
 In this project, we'll do the following: 
 1) Obtain real data from the Internet and prepare it for analysis Analyze the data using Python Author our first portfolio project in Jupyter Notebook, to share code and communicate results 
